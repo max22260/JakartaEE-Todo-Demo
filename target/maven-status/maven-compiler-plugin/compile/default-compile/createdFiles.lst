@@ -1,0 +1,4 @@
+com\nagy\resources\TodoRest.class
+com\nagy\service\TodoService.class
+com\nagy\application\TodoApplication.class
+com\nagy\entity\Todo.class
